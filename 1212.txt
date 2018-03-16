@@ -3,6 +3,7 @@
 <meta charset="utf-8">
 <title style="color: blue">welcome</title>
 </head>
+<body>
 <style>
   .gray-text {
     color: gray;
